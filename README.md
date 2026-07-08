@@ -1,2 +1,9 @@
-# dog-ideal-weight-core
-Core ideal-weight range helpers for dogs by breed and sex. Built by pawsandpounds.com.
+# Dog Ideal Weight Core
+
+Helpers to compare a dog's current weight against a male/female ideal range.
+
+Built by [pawsandpounds.com](https://pawsandpounds.com).
+
+## License
+
+MIT
